@@ -5,7 +5,7 @@ int main() {
    int q = 1;
    int w = 1;
    int e = 0;
-   e = w + q;
+   // e = w + q;
    w = 3;
    e += w;
    // printf() displays the string inside quotation
